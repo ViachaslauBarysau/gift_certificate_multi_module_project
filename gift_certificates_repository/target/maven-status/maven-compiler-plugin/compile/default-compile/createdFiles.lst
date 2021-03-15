@@ -1,0 +1,11 @@
+by\barysau\gift_certificates_repository\repository\CertificateRepository.class
+by\barysau\gift_certificates_repository\entity\Tag.class
+by\barysau\gift_certificates_repository\dto\CertificateDto.class
+by\barysau\gift_certificates_repository\entity\Certificate.class
+by\barysau\gift_certificates_repository\converter\CertificateConverter.class
+by\barysau\gift_certificates_repository\repository\impl\CertificateRepositoryImpl.class
+by\barysau\gift_certificates_repository\repository\TagRepository.class
+by\barysau\gift_certificates_repository\config\Config.class
+by\barysau\gift_certificates_repository\converter\TagConverter.class
+by\barysau\gift_certificates_repository\repository\impl\TagRepositoryImpl.class
+by\barysau\gift_certificates_repository\dto\TagDto.class
